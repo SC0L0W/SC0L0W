@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/lowrence scott gutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lowrence scott gutierrez" height="30" width="40" /></a>
 <a href="https://fb.com/sc0l0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sc0l0w" height="30" width="40" /></a>
 <a href="https://instagram.com/sc0l0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sc0l0w" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/scolow gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scolow gaming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@scolowgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scolow gaming" height="30" width="40" /></a>
 <a href="https://discord.gg/cjMqgJwqtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cjMqgJwqtg" height="30" width="40" /></a>
 </p>
 
