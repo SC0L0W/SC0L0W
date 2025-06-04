@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Scolow</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sc0l0w&label=Profile%20views&color=0e75b6&style=flat" alt="sc0l0w" /> </p>
 
-<h3 align="left">🔭 I’m currently working on Structural Software Development</h3>
+<h3 align="left">🔭 Vibe coding</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
