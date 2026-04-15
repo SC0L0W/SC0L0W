@@ -2,6 +2,10 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sc0l0w&label=Profile%20views&color=0e75b6&style=flat" alt="sc0l0w" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/sc0l0w&style=flat" />
+
+  <img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Followers&query=%24.followers&url=https://api.github.com/users/sc0l0w&style=flat" />
 </p>
 
 <h3 align="left">🔭 Vibe coding</h3>
